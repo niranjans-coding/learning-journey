@@ -1,4 +1,8 @@
 # learning-journey
-This repository is my stepping stone to become a high efficient software developer.
-Now to show 1st commit, I am making changes in this file #1
-This is to show 2nd commit, I am adding new line in this readme file #2
+In this repo I am doing all my learning activities and also listing my learning goals here.
+I am learning Python from scratch and trying to become pro and succeed in my career.
+List of contents in my learning curve follows:
+1️⃣Python Fundamentals
+2️⃣Object Oriented Python
+3️⃣Data Structures & Algorithms
+4️⃣Working with Databases
