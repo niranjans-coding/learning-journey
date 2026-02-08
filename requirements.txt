@@ -1,13 +1,3 @@
-Useful VS Code Extensions
-########################
-Python (Microsoft) - already installed
-Pylance - enhanced language support
-GitLens - advanced Git features
-Black Formatter - code formatting
-////////////////////////////////
-Tips for macOS
-#################
-Use python3 and pip3 explicitly (not just python or pip)
-Virtual environments keep dependencies isolated per project
-Always activate your venv before working on a project
-Create a requirements.txt for each project to track dependencies
+numpy==1.24.3
+pandas==2.0.2
+requests==2.31.0
