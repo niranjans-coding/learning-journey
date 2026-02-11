@@ -16,4 +16,5 @@ __pycache__/
 # OS / IDE junk
 .DS_Store
 .vscode/
+.vscode/*
 .idea/
